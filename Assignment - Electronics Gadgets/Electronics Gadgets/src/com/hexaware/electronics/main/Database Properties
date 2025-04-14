@@ -1,0 +1,5 @@
+url = jdbc:mysql://localhost:3306/TechShop
+
+username = root
+
+password =  sandy2003
